@@ -7,7 +7,7 @@ index1.html<br>
 index2.html<br>
 index3.html<br>
 
-Each one of the index files points to the next one.<br>
+Each one of the index files has an anchor tag that surrounds the image and on click will take you to the next one.<br>
 ###Whats the catch?
 
 You need to have the following file/folder structure<br>
