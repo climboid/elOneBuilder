@@ -11,9 +11,9 @@ Each one of the index files points to the next one.<br>
 
 You need to have the following file structure<br>
 
-- makeElOne.py
-- www
---img
+* makeElOne.py
+* www
+	* img
 
 Thats it!<br>
 The generated index files will go under the www folder.
