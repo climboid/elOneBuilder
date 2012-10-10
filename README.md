@@ -13,7 +13,7 @@ You need to have the following file structure<br>
 
 - makeElOne.py
 - www
-	-img
+--img
 
 Thats it!<br>
 The generated index files will go under the www folder.
