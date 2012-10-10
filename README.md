@@ -9,11 +9,11 @@ index3.html<br>
 Each one of the index files points to the next one.<br>
 ###Whats the catch?
 
-You need to have the following file structure<br>
+You need to have the following file/folder structure<br>
 
-* makeElOne.py
-* www
-	* img
+* makeElOne.py (file)
+* www (folder)
+	* img (folder)
 
 Thats it!<br>
 The generated index files will go under the www folder.
