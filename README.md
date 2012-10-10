@@ -1,7 +1,8 @@
 #L1 Builder
 
-The purpose of this script is to allow someone who has a set of images under an img folder and that follow a sequence (Example: img/1.png img/2.png img/3.png) to convert that into html pages that are linked in that order.
-So the above list of images would generate:<br><br>
+The purpose of this script is to allow someone who has a set of images under an img folder and that follow a sequence to convert that into html pages that are linked in that order.<br><br>
+Example: img/1.png img/2.png img/3.png <br>
+Would generate:<br><br>
 index1.html<br>
 index2.html<br>
 index3.html<br>
