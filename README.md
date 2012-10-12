@@ -17,5 +17,8 @@ You need to have the following file/folder structure<br>
 	* img (folder)
 
 Thats it!<br>
+
+##How to use?
+Download or fork the contents of this repository. Puth the makeElOne.py file next to the www folder of your application.
 The generated index files will go under the www folder.
 Enjoy!
